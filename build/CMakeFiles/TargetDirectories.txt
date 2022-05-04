@@ -1,0 +1,3 @@
+/home/shuran/CppND/build/CMakeFiles/rebuild_cache.dir
+/home/shuran/CppND/build/CMakeFiles/ShooterGame.dir
+/home/shuran/CppND/build/CMakeFiles/edit_cache.dir
